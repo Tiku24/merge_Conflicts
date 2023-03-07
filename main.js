@@ -1,2 +1,2 @@
 var a = "50";
-var print = "Hello Flatter Earth"; 
+var print = "Hello Cats";
