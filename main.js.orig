@@ -1,0 +1,7 @@
+var a = "50";
+var print = "Hello Cats";
+<<<<<<< HEAD
+var size = 50;
+=======
+var size = 40;
+>>>>>>> 65a01eba8c05552e0201a56a6877bc759cf9b03e
