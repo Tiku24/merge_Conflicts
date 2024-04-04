@@ -1,2 +1,3 @@
 var a = "50";
-var print = "Hello Can";
+var print = "Hello Cats";
+var size = 30;
